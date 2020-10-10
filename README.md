@@ -1,0 +1,1 @@
+consul-mcp watches for changes in consul catalog and provides services to Istio pilot via MCP protocol.
