@@ -7,7 +7,6 @@ require (
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.1
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/hashicorp/consul/api v1.6.0
-	github.com/prometheus/client_golang v1.7.1 // indirect
 	golang.org/x/tools v0.0.0-20201009162240-fcf82128ed91 // indirect
 	google.golang.org/grpc v1.33.0-dev.0.20200828165940-d8ef479ab79a
 	istio.io/api v0.0.0-20200905155905-4e0c8da420a4
